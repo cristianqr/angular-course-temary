@@ -11,6 +11,7 @@
 	* Dynamic component @Output subscriptions
 	* Content projection with ng-content
 	* @ViewChild
+* Practice 01
 * Structural directives
 	* NgIf
 	* NgFor
@@ -25,9 +26,11 @@
 	* @Pipe
 	* Creating a custom pipe
 	* Pipes as providers
+* Practice 02
 * Services, Http
 	* Data service and dependency injection
 	* Http data fetching with observables (rxjs/Rx)
+* Practice 03
 * Template-driven forms
 	* FormsModule
 	* ngForm
@@ -36,6 +39,7 @@
 	* Binding ngForm and ngModel
 	* ngModels and ngModelGroup
 	* Template-driven submit
+* Pactice 04
 * Reactive Forms
 	* ReactiveFormsModule
 	* FormControls and FormGroups
@@ -44,6 +48,7 @@
 	* FormControl (custom) validators
 	* FormGroup (custom) validators
 	* Updating and resetting FormGroups and FormControls
+* Pactice 05
 * Routing
 	* Router outlet
 	* Defining routes
@@ -51,3 +56,4 @@
 	* Lazy-loading modules
 	* Preloading lazy-loaded modules
 	* Guards with canActivate
+* Final Exam
