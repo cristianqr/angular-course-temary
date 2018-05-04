@@ -14,6 +14,7 @@
 * Structural directives
 	* NgIf
 	* NgFor
+	<!--* NgSwitch-->
 * **Practice 01**
 * Style directives
 	* NgClass
